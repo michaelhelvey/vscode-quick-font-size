@@ -28,7 +28,7 @@
       "title": "Quick Font Size",
       "properties": {
         "quick-font-size.jumpInterval": {
-          "type": "boolean",
+          "type": "number",
           "default": 4,
           "description": "How much to increment or decrement the font size with each command"
         }
